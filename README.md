@@ -49,3 +49,10 @@ In order to use the application, you must have an account. After register and lo
   - The API provides a list of related keywords for the provided ones so that you might advertise your product under, more profitable, keywords.
 
 After gathering all that&#39;s needed, depending on the user membership plan (free or premium), the information will be displayed such that a user can easily deduct if the niche is profitable or not, and see alternative keywords for the niche in which he wants to sell.
+
+
+## Project links
+
+ - Frontend:https://github.com/AlexCernov/NicheResearchTool-frontend
+ - Backend:https://github.com/AlexCernov/NicheResearchTool-backend
+
